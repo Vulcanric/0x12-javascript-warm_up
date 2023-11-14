@@ -1,1 +1,1 @@
-# Javascript is awesome
+# JavaScript is awesome ✨
